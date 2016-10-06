@@ -29,7 +29,7 @@
     "parser": "babel-eslint"
   },
   "devDependencies": {
-    "mastarm": "^0.10.0",
+    "mastarm": "^1.1.0",
     "semantic-release": "^4.3.5"
   }
 }
